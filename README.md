@@ -1,9 +1,8 @@
 ## Oi ! Sou o Pedro Pigatto !
 
-##
-
 🕶️ Estudando engenharia mecânica atualmente
 
+##
 
 <div align="center">
   <a href="https://github.com/pedrocp04">
@@ -30,3 +29,4 @@
 
 ##
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=12183968766)
