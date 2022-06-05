@@ -1,4 +1,4 @@
-## Oi ! Sou o Pedro Pigatto !
+## Oi ! Sou o Pedro Pigatto ! | Hey ! I'm Pedro Pigatto !
 
 🕶️ Estudando engenharia mecânica atualmente | currently studying mechanical engineering 
 
