@@ -1,6 +1,6 @@
 ## Oi ! Sou o Pedro Pigatto !
 
-🕶️ Estudando engenharia mecânica atualmente
+🕶️ Estudando engenharia mecânica atualmente | currently studying mechanical engineering 
 
 ##
 
