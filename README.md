@@ -18,6 +18,7 @@
  <img align="center" alt="Pedro-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg">
  <img align="center" alt="Pedro-Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
  <img align="center" alt="Pedro-VSCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"> 
+  <img align="center" alt="Pedro-MatLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css""> 
 </div>
 
 ##
